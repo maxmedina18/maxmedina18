@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maxmedina18
-- 👀 I’m interested in ... programming, software development and ethical hacking
-- 🌱 I’m currently learning ... python & Java
+- 👀 I’m interested in ... programming, software engineering and development. 
+- 🌱 I’m currently learning ... python, dart & the C's
 - 💞️ I’m looking to collaborate on ... pretty much anything intresting.
-- 📫 How to reach me ... saveusapparel@gmail.com
+- 📫 How to reach me ... medimax2024@gmaiul.com
 
 <!---
 maxmedina18/maxmedina18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
