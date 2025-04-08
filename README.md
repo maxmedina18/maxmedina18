@@ -1,7 +1,7 @@
 I’m Max Medina
-I’m interested in Software engineering, AI, Machine Learning and Software development. 
+I’m interested in Software engineering, Physics, cars and everything in between.
 
-I’m currently learning Python, dart, C++ and SQL
+I’m currently learning Python, C++, SQL.....
 
 I’m looking to collaborate on anything interesting.
 
