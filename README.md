@@ -1,5 +1,5 @@
 I’m Max Medina
-I’m interested in Software engineering, Physics, cars and everything in between.
+I’m interested in Physics, cars, engineering and everything in between.
 
 I’m currently learning Python, C++, SQL.....
 
