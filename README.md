@@ -1,6 +1,6 @@
 Hi, I'm Maximiliano Medina.
 
-I'm a computer science student interested in physics, simulation, financial markets, and engineering systems.
+I'm a computer science student who plans on starting a Physics Phd soon. Interested in physics, simulation, financial markets, and engineering systems.
 
 I enjoy building mathematical models and simulation tools to understand complex systems, from particle simulations and spacecraft thermal modeling to stochastic market analysis.
 
