@@ -7,6 +7,7 @@ I enjoy building mathematical models and simulation tools to understand complex 
 Currently working on:
 • Spectra — a quantitative research framework for stochastic market modeling
 • Numerical physics simulations in C++ and Python
+• M3 a tool for analyzing lunar spectroscopy
 
 Languages: Python, C++, SQL
 <!---
