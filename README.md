@@ -1,4 +1,4 @@
-# Hi, I'm Maximiliano Medina.
+Hi, I'm Maximiliano Medina.
 
 I'm a Computer Science student with a minor in Physics, interested in pursuing graduate degree in physics.
 
